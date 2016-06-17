@@ -1,0 +1,44 @@
+The Amazing Zorbax!
+========================================================
+author: S Duffy
+date: 6/17/2016
+
+The Pitch
+========================================================
+
+Humans are obsessed with dying, afraid of when death will come knock at their door.  
+
+Now there is The Amazing Zorbax!  
+
+It's an app that, with a few basic inputs, tells people how many years they have left to live.
+
+App Description
+========================================================
+
+The app is quite simple:
+
+Enter your age, race, and gender
+
+and the Amazing Zorbax app returns how many years you have remaining in your life!
+
+Background
+========================================================
+
+The app uses data from the US Centers for Disease Control and Prevention
+
+The CDC publishes the National Vital Statics Reports, which have life expectancy tables.
+
+This app uses data from the National Vital Statistics Reports, Vol. 64 No. 2, February 16, 2016.
+
+Found at  
+http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf  
+and accessed June 17, 2016.
+
+
+Data Basis
+========================================================
+
+This is a partial view of the data used in this app. It excludes lines by gender for the sake
+of clarity.
+
+![Plot](Rplot01.png) 
